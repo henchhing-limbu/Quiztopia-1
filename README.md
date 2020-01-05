@@ -19,12 +19,16 @@ climb to the top of the leaderboard.
 * User can edit the quizzes they have created.
 
 # Technologies Used
-* Firebase Realtime Databse
+* Firebase Realtime Database
 * Firebase Cloud Functions
 * Sweet.js
 * Bootstrap
 * HTML/CSS
 * JavaScript
+
+# Website Link
+You can access the website through this link:
+https://quiztopia-35e04.firebaseapp.com/
 
 # Contributors
 * Henchhing Limbu
